@@ -1,0 +1,7 @@
+C:\C#\Programa POO\GestionHospital\bin\Debug\GestionHospital.exe.config
+C:\C#\Programa POO\GestionHospital\bin\Debug\GestionHospital.exe
+C:\C#\Programa POO\GestionHospital\bin\Debug\GestionHospital.pdb
+C:\C#\Programa POO\GestionHospital\obj\Debug\GestionHospital.csproj.AssemblyReference.cache
+C:\C#\Programa POO\GestionHospital\obj\Debug\GestionHospital.csproj.CoreCompileInputs.cache
+C:\C#\Programa POO\GestionHospital\obj\Debug\GestionHospital.exe
+C:\C#\Programa POO\GestionHospital\obj\Debug\GestionHospital.pdb
