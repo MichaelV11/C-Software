@@ -1,0 +1,9 @@
+C:\C#\CRUD_Empleados\ProyectoEmpleados\bin\Debug\ProyectoEmpleados.exe.config
+C:\C#\CRUD_Empleados\ProyectoEmpleados\bin\Debug\ProyectoEmpleados.exe
+C:\C#\CRUD_Empleados\ProyectoEmpleados\bin\Debug\ProyectoEmpleados.pdb
+C:\C#\CRUD_Empleados\ProyectoEmpleados\obj\Debug\ProyectoEmpleados.csproj.AssemblyReference.cache
+C:\C#\CRUD_Empleados\ProyectoEmpleados\obj\Debug\ProyectoEmpleados.Properties.Resources.resources
+C:\C#\CRUD_Empleados\ProyectoEmpleados\obj\Debug\ProyectoEmpleados.csproj.GenerateResource.cache
+C:\C#\CRUD_Empleados\ProyectoEmpleados\obj\Debug\ProyectoEmpleados.csproj.CoreCompileInputs.cache
+C:\C#\CRUD_Empleados\ProyectoEmpleados\obj\Debug\ProyectoEmpleados.exe
+C:\C#\CRUD_Empleados\ProyectoEmpleados\obj\Debug\ProyectoEmpleados.pdb
